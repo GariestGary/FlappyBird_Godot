@@ -1,0 +1,9 @@
+D:\Files\Docs\Godot\FlappyBird\.mono\temp\bin\Debug\FlappyBird.dll
+D:\Files\Docs\Godot\FlappyBird\.mono\temp\bin\Debug\FlappyBird.pdb
+D:\Files\Docs\Godot\FlappyBird\.mono\temp\obj\Debug\FlappyBird.csproj.AssemblyReference.cache
+D:\Files\Docs\Godot\FlappyBird\.mono\temp\obj\Debug\FlappyBird.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\Docs\Godot\FlappyBird\.mono\temp\obj\Debug\FlappyBird.AssemblyInfoInputs.cache
+D:\Files\Docs\Godot\FlappyBird\.mono\temp\obj\Debug\FlappyBird.AssemblyInfo.cs
+D:\Files\Docs\Godot\FlappyBird\.mono\temp\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+D:\Files\Docs\Godot\FlappyBird\.mono\temp\obj\Debug\FlappyBird.dll
+D:\Files\Docs\Godot\FlappyBird\.mono\temp\obj\Debug\FlappyBird.pdb
